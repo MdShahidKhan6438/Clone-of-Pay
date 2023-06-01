@@ -28,7 +28,7 @@ Click [here](https://avinashchandra043.github.io/Clone1/) to run the app.
  
   ![](src/mobile_2.png)
  # Contact
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://github.com/MdShahidKhan6438)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://github.com/MdShahidKhan6438)`https://https://www.linkedin.com/in/md-shahid-khan-08a995227/`
  
  
 <img align="left" alt="gmail" width="26px" src="./paytm_image/readmeAssets/gmail.webp" /> `mdshahidkhan009@gmail.com`
